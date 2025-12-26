@@ -4,7 +4,7 @@ from aiogram.utils import executor
 from database import *
 import asyncio
 
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+BOT_TOKEN = "8198029952:AAFGw345blE5suXLvG9_p29uDrFmDabj9k4"
 
 bot = Bot(BOT_TOKEN)
 dp = Dispatcher()
